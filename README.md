@@ -18,3 +18,10 @@ function x (int a, int b){
 
 }
 ```
+
+
+### Arquivos relacionados:
+- [Formulário principal](Compilador/FormMain.cs)
+- [Diretório analizador léxico](Compilador/Lexico)
+- [Classe estática analisador sintático](Compilador/Sintatico/AnalizadorDescendenteRecursivo.cs)
+- [Arquivo executável](Compilador/bin/Debug/Compilador.exe)
